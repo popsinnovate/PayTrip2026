@@ -1,0 +1,39 @@
+    body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    text-align: center;
+}
+
+header {
+    background: #111;
+    color: white;
+    padding: 20px;
+}
+
+.tagline {
+    font-style: italic;
+    color: #00c3ff;
+}
+
+nav button {
+    margin: 5px;
+    padding: 10px 15px;
+    border: none;
+    background: #00c3ff;
+    color: white;
+    cursor: pointer;
+}
+
+nav button:hover {
+    background: #008fb3;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background: #111;
+    color: white;
+    padding: 10px;
+}
